@@ -39,3 +39,6 @@ terraform.rc
 # Additional Terraform files specific to this project
 *.tfplan
 .terraform.lock.hcl
+
+# Ignore MacOS system files
+.DS_Store
